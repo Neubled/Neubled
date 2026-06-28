@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *05tincho123@gmail.com*
 
-- ⚡ About Me : I am an Electronics Technician and a Systems degree student (UNLP). I have experience in web development using HTML, CSS, and JavaScript, gained through internships at Unitec-Infotec. I am interested in software development, technical support, testing, and technology in general. I am responsible and proactive, with a willingness to learn and take on new professional challenges..
+- ⚡ About Me : I am an Electronics Technician and a Bachelor's degree in Systems student (UNLP). I have experience in web development using HTML, CSS, and JavaScript, gained through internships at Unitec-Infotec. I am interested in software development, technical support, testing, and technology in general. I am responsible and proactive, with a willingness to learn and take on new professional challenges..
 
 <br>
 

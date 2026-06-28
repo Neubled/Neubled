@@ -18,7 +18,7 @@
   <a href="www.linkedin.com/in/martin-nicolas-delbueno-44448837b/?skipRedirect=true" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="[https://instagram.com/_._.adam._](https://www.instagram.com/martindelbueno/)" target="blank"><img align="center"
+  <a href="www.instagram.com/martindelbueno/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
